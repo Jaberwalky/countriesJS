@@ -1,0 +1,26 @@
+body {
+  font-family: helvetica;
+  background-color: lightgray;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#select-country{
+
+}
+
+#flag{
+  border: 1px dashed black;
+}
+
+h1{
+  font-size: 3em;
+  margin: 0;
+  padding-top: 10px;
+}
+
+li{
+  list-style: none;
+}
